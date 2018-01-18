@@ -1,0 +1,14 @@
+{
+  "dataBinding": {
+    "/webapp/view/Page1.view.xml": {
+      "entitySet": ""
+    }
+  },
+  "mockpreview": {
+    "mockUri": "/here/goes/your/serviceUrl/local/",
+    "metadataFilePath": "localService/metadata.xml",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  }
+}
