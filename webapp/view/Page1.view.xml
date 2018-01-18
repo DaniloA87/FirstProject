@@ -15,7 +15,8 @@
                             <Title text="Materials in stock (3)" titleStyle="Auto" width="auto" textAlign="Begin" visible="true"/>
                             <ToolbarSpacer width=""/>
                             <Button text="" type="Transparent" icon="sap-icon://sort" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
-                            <Button text="" type="Transparent" icon="sap-icon://filter" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
+                            <Button text="" type="Transparent" icon="sap-icon://filter" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"
+                            press="pressFilter"/>
                             <Button text="Button" type="Default" icon="sap-icon://refresh" iconFirst="true" width="auto" enabled="true" visible="true" iconDensityAware="false"/>
                             <SearchField placeholder="Search" showSearchButton="true" visible="true" width="auto"/>
                         </content>
